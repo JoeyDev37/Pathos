@@ -86,8 +86,6 @@ html,body {
     color: rgba(96, 0, 0, 0.5);
 }
 
-.content p {
-}
 
 .card-content h1 a {
     color: #600000;
@@ -103,10 +101,19 @@ html,body {
     width: 15%;
 }
 
-.media p {
-   color: black;
+.media {
+
 }
 
 .pagination a {
+    color: black !important;
+}
+
+.content > * {
+  color: black !important;
+  text-decoration-color: black !important;
+}
+
+strong {
     color: black !important;
 }
