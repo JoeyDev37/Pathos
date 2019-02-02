@@ -10,10 +10,12 @@ author: Joey Weidman
 
 **Engineers:**
 
-* Skyler - skylerhektner@ymail.com
-* Joey - joey.weidman1@gmail.com
-* Levi - mcdonaldlevi@ymail.com
-* Tim - time.taznar@gmail.com
+- Skyler Hektner - skylerhektner@ymail.com
+- Joey Weidman- joey.weidman1@gmail.com
+- Levi McDonald - mcdonaldlevi@ymail.com
+- Tim Trimble- tim.d.trimble@gmail.com
+
+***
 
 **Artists:**
 
@@ -24,11 +26,15 @@ author: Joey Weidman
 - Eric - ikilledtheboss@gmail.com
 - Klein - kleinhammond24@gmail.com
 
+***
+
 **Designers:**
 
-Alex - amedes95@gmail.com
-Eddie - ercsneddie@gmail.com
+- Alexander Medes - amedes95@gmail.com
+- Eddie - ercsneddie@gmail.com
+
+***
 
 **Producer:**
 
-Harrison - harrison.brandon97@gmail.com
+- Harrison - harrison.brandon97@gmail.com
