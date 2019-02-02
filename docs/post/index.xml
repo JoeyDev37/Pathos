@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Pathos</title>
-    <link>/post/</link>
+    <link>pathos-game.com/post/</link>
     <description>Recent content in Posts on Pathos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Feb 2019 15:24:01 -0700</lastBuildDate>
     
-        <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="pathos-game.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test7</title>
-      <link>/2019/test7/</link>
+      <link>pathos-game.com/2019/test7/</link>
       <pubDate>Fri, 01 Feb 2019 15:24:01 -0700</pubDate>
       
-      <guid>/2019/test7/</guid>
+      <guid>pathos-game.com/2019/test7/</guid>
       <description>This is a test post. Just testing the text.</description>
     </item>
     
     <item>
       <title>Test6</title>
-      <link>/2019/test6/</link>
+      <link>pathos-game.com/2019/test6/</link>
       <pubDate>Fri, 01 Feb 2019 15:23:57 -0700</pubDate>
       
-      <guid>/2019/test6/</guid>
+      <guid>pathos-game.com/2019/test6/</guid>
       <description>This is another test post. I also added tags to test. Testing multiple lines. Testing more lines.
 This is another test post. I also added tags to test. Testing multiple lines. Testing more lines.
 This is another test post. I also added tags to test. Testing multiple lines. Testing more lines.
@@ -35,55 +35,55 @@ This is another test post.</description>
     
     <item>
       <title>Test5</title>
-      <link>/2019/test5/</link>
+      <link>pathos-game.com/2019/test5/</link>
       <pubDate>Fri, 01 Feb 2019 15:23:54 -0700</pubDate>
       
-      <guid>/2019/test5/</guid>
+      <guid>pathos-game.com/2019/test5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test4</title>
-      <link>/2019/test4/</link>
+      <link>pathos-game.com/2019/test4/</link>
       <pubDate>Fri, 01 Feb 2019 15:23:52 -0700</pubDate>
       
-      <guid>/2019/test4/</guid>
+      <guid>pathos-game.com/2019/test4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test3</title>
-      <link>/2019/test3/</link>
+      <link>pathos-game.com/2019/test3/</link>
       <pubDate>Fri, 01 Feb 2019 15:23:50 -0700</pubDate>
       
-      <guid>/2019/test3/</guid>
+      <guid>pathos-game.com/2019/test3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test2</title>
-      <link>/2019/test2/</link>
+      <link>pathos-game.com/2019/test2/</link>
       <pubDate>Fri, 01 Feb 2019 15:23:48 -0700</pubDate>
       
-      <guid>/2019/test2/</guid>
+      <guid>pathos-game.com/2019/test2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test1</title>
-      <link>/2019/test1/</link>
+      <link>pathos-game.com/2019/test1/</link>
       <pubDate>Fri, 01 Feb 2019 15:23:44 -0700</pubDate>
       
-      <guid>/2019/test1/</guid>
+      <guid>pathos-game.com/2019/test1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This Is a Test</title>
-      <link>/2019/this-is-a-test/</link>
+      <link>pathos-game.com/2019/this-is-a-test/</link>
       <pubDate>Fri, 01 Feb 2019 15:23:04 -0700</pubDate>
       
-      <guid>/2019/this-is-a-test/</guid>
+      <guid>pathos-game.com/2019/this-is-a-test/</guid>
       <description></description>
     </item>
     

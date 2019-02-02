@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "pathos-game.com"
 languageCode = "en-us"
 title = "Pathos"
 paginate = 3

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unity on Pathos</title>
-    <link>/tags/unity/</link>
+    <link>pathos-game.com/tags/unity/</link>
     <description>Recent content in Unity on Pathos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Feb 2019 15:24:01 -0700</lastBuildDate>
     
-        <atom:link href="/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="pathos-game.com/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test7</title>
-      <link>/2019/test7/</link>
+      <link>pathos-game.com/2019/test7/</link>
       <pubDate>Fri, 01 Feb 2019 15:24:01 -0700</pubDate>
       
-      <guid>/2019/test7/</guid>
+      <guid>pathos-game.com/2019/test7/</guid>
       <description>This is a test post. Just testing the text.</description>
     </item>
     
