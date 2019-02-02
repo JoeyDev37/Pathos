@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pathos</title>
-    <link>pathos-game.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Pathos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Feb 2019 15:24:01 -0700</lastBuildDate>
     
-        <atom:link href="pathos-game.com/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>pathos-game.com/tags/development/</link>
+      <link>/tags/development/</link>
       <pubDate>Fri, 01 Feb 2019 15:24:01 -0700</pubDate>
       
-      <guid>pathos-game.com/tags/development/</guid>
+      <guid>/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Devlog</title>
-      <link>pathos-game.com/tags/devlog/</link>
+      <link>/tags/devlog/</link>
       <pubDate>Fri, 01 Feb 2019 15:24:01 -0700</pubDate>
       
-      <guid>pathos-game.com/tags/devlog/</guid>
+      <guid>/tags/devlog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sprint Review</title>
-      <link>pathos-game.com/tags/sprint-review/</link>
+      <link>/tags/sprint-review/</link>
       <pubDate>Fri, 01 Feb 2019 15:23:57 -0700</pubDate>
       
-      <guid>pathos-game.com/tags/sprint-review/</guid>
+      <guid>/tags/sprint-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unity</title>
-      <link>pathos-game.com/tags/unity/</link>
+      <link>/tags/unity/</link>
       <pubDate>Fri, 01 Feb 2019 15:24:01 -0700</pubDate>
       
-      <guid>pathos-game.com/tags/unity/</guid>
+      <guid>/tags/unity/</guid>
       <description></description>
     </item>
     

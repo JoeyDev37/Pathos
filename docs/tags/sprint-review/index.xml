@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sprint Review on Pathos</title>
-    <link>pathos-game.com/tags/sprint-review/</link>
+    <link>/tags/sprint-review/</link>
     <description>Recent content in Sprint Review on Pathos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Feb 2019 15:23:57 -0700</lastBuildDate>
     
-        <atom:link href="pathos-game.com/tags/sprint-review/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/sprint-review/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test6</title>
-      <link>pathos-game.com/2019/test6/</link>
+      <link>/2019/test6/</link>
       <pubDate>Fri, 01 Feb 2019 15:23:57 -0700</pubDate>
       
-      <guid>pathos-game.com/2019/test6/</guid>
+      <guid>/2019/test6/</guid>
       <description>This is another test post. I also added tags to test. Testing multiple lines. Testing more lines.
 This is another test post. I also added tags to test. Testing multiple lines. Testing more lines.
 This is another test post. I also added tags to test. Testing multiple lines. Testing more lines.
