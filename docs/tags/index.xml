@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Pathos</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Pathos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Feb 2019 15:24:01 -0700</lastBuildDate>
+    
+        <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>http://example.org/tags/development/</link>
+      <pubDate>Fri, 01 Feb 2019 15:24:01 -0700</pubDate>
+      
+      <guid>http://example.org/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devlog</title>
+      <link>http://example.org/tags/devlog/</link>
+      <pubDate>Fri, 01 Feb 2019 15:24:01 -0700</pubDate>
+      
+      <guid>http://example.org/tags/devlog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sprint Review</title>
+      <link>http://example.org/tags/sprint-review/</link>
+      <pubDate>Fri, 01 Feb 2019 15:23:57 -0700</pubDate>
+      
+      <guid>http://example.org/tags/sprint-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>http://example.org/tags/unity/</link>
+      <pubDate>Fri, 01 Feb 2019 15:24:01 -0700</pubDate>
+      
+      <guid>http://example.org/tags/unity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

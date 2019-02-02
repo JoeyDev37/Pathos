@@ -5,6 +5,8 @@ paginate = 3
 
 theme = "jeffprod"
 
+publishDir = "docs"
+
 [permalinks]
     post = "/:year/:filename"
 

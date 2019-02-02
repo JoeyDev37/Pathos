@@ -1,0 +1,109 @@
+html,body {
+    font-family: 'Open Sans', sans-serif;
+    background: #F0F2F4;
+}
+
+.hero {
+    filter: drop-shadow(0px 2px 6px #000000);
+}
+.hero-body {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #222222;
+    padding-bottom: 50px !important;
+}
+.mysocial { color: hsl(0, 0%, 100%);}
+.mysocial:hover { color: hsl(0, 0%, 71%) }
+
+.navbar {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #383838 !important;
+    filter: drop-shadow(0px 0px 4px #000000);
+}
+
+.navbar-brand {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.navbar-item {
+    color: white !important;
+}
+
+.social-media {
+    padding-left: 5px;
+}
+
+.section {
+    width:100% !important;
+    background: #383838;
+}
+
+.tile {
+    background-color: rgba(91, 159, 186, 0.25);
+}
+
+.card {
+    background-color: rgba(91, 159, 186, 0.25);
+}
+
+.tag {
+   background-color: rgba(173, 5, 5, 0.25) !important;
+
+}
+
+.tag a {
+    color: black;
+}
+
+.tags-card {
+}
+
+.recent-card {
+}
+
+.footer {
+    padding-top: 0px;
+    padding-bottom: 20px;
+    background: linear-gradient(to right, rgba(255, 0, 0, 0.1) , rgba(255, 255, 0, 0.1),  rgba(0, 255, 0, 0.1), rgba(0, 0, 255, 0.1));
+}
+
+.intro-text {
+    color: #222222 !important;
+    font-weight: bold !important;
+}
+
+.card-content .title {
+    color: #222222 !important;
+}
+
+.content a {
+    color: rgba(96, 0, 0, 0.5);
+}
+
+.card-content h1 a {
+    color: #600000;
+    font-weight: bolder;
+}
+
+.logo {
+    width: 50%;
+}
+
+.download-button {
+    height: 15%;
+    width: 15%;
+}
+
+.media p {
+   color: black;
+}
+
+.pagination a {
+    color: black !important;
+}
