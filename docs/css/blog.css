@@ -114,6 +114,10 @@ html,body {
   text-decoration-color: black !important;
 }
 
+.subtitle {
+    color: #d1d1d1 !important;
+}
+
 strong {
     color: black !important;
 }
