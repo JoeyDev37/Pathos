@@ -86,6 +86,10 @@ html,body {
     color: rgba(96, 0, 0, 0.5);
 }
 
+.content p {
+    color: black !important;
+}
+
 .card-content h1 a {
     color: #600000;
     font-weight: bolder;
