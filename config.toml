@@ -1,4 +1,4 @@
-baseURL = "https://joeyweidman33.github.io/Pathos/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Pathos"
 paginate = 3
