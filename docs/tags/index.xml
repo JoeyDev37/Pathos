@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pathos</title>
-    <link>/tags/</link>
+    <link>https://joeyweidman33.github.io/Pathos/tags/</link>
     <description>Recent content in Tags on Pathos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Feb 2019 15:24:01 -0700</lastBuildDate>
     
-        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://joeyweidman33.github.io/Pathos/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>/tags/development/</link>
+      <link>https://joeyweidman33.github.io/Pathos/tags/development/</link>
       <pubDate>Fri, 01 Feb 2019 15:24:01 -0700</pubDate>
       
-      <guid>/tags/development/</guid>
+      <guid>https://joeyweidman33.github.io/Pathos/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Devlog</title>
-      <link>/tags/devlog/</link>
+      <link>https://joeyweidman33.github.io/Pathos/tags/devlog/</link>
       <pubDate>Fri, 01 Feb 2019 15:24:01 -0700</pubDate>
       
-      <guid>/tags/devlog/</guid>
+      <guid>https://joeyweidman33.github.io/Pathos/tags/devlog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sprint Review</title>
-      <link>/tags/sprint-review/</link>
+      <link>https://joeyweidman33.github.io/Pathos/tags/sprint-review/</link>
       <pubDate>Fri, 01 Feb 2019 15:23:57 -0700</pubDate>
       
-      <guid>/tags/sprint-review/</guid>
+      <guid>https://joeyweidman33.github.io/Pathos/tags/sprint-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unity</title>
-      <link>/tags/unity/</link>
+      <link>https://joeyweidman33.github.io/Pathos/tags/unity/</link>
       <pubDate>Fri, 01 Feb 2019 15:24:01 -0700</pubDate>
       
-      <guid>/tags/unity/</guid>
+      <guid>https://joeyweidman33.github.io/Pathos/tags/unity/</guid>
       <description></description>
     </item>
     
