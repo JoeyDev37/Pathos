@@ -23,7 +23,7 @@ author: Joey Weidman
 - Anson - ajd613@gmail.com
 - Brad - kloosbw@gmail.com
 - Brandon - cbsimms@comcast.net
-- Eric - ikilledtheboss@gmail.com
+- Eric Knaus - eric.knaus@studio-awesome.net
 - Klein - kleinhammond24@gmail.com
 
 ***
