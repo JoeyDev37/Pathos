@@ -17,13 +17,6 @@ html,body {
 .mysocial { color: hsl(0, 0%, 100%);}
 .mysocial:hover { color: hsl(0, 0%, 71%) }
 
-.navbar {
-    padding-top: 5px;
-    padding-bottom: 5px;
-    background-color: #383838 !important;
-    filter: drop-shadow(0px 0px 4px #000000);
-}
-
 .navbar-brand {
     position: absolute;
     top: 50%;
@@ -121,4 +114,11 @@ html,body {
 
 strong {
     color: black !important;
+}
+
+.navbar {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #383838 !important;
+    filter: drop-shadow(0px 0px 4px #000000);
 }
