@@ -1,6 +1,7 @@
 html,body {
     font-family: 'Open Sans', sans-serif;
     background: #F0F2F4;
+    background-color: #383838 !important;
 }
 
 .hero {
