@@ -10,7 +10,7 @@ author: Joey Weidman
 
 **Engineers:**
 
-- Skyler Hektner - skylerhektner@ymail.com
+- Skyler Hektner - skylerhektner@gmail.com
 - Joey Weidman- joey.weidman1@gmail.com
 - Levi McDonald - mcdonaldlevi@ymail.com
 - Tim Trimble- tim.d.trimble@gmail.com
@@ -31,7 +31,7 @@ author: Joey Weidman
 **Designers:**
 
 - Alexander Medes - amedes95@gmail.com
-- Eddie - ercsneddie@gmail.com
+- Eddie - ercsnedward@gmail.com
 
 ***
 
