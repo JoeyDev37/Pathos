@@ -6,7 +6,7 @@ tags: [team]
 author: Joey Weidman
 ---
 
-# Team Horde
+# <center>Team Horde</center>
 
 **Engineers:**
 

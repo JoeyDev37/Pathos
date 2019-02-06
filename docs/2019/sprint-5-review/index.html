@@ -57,7 +57,132 @@
     <div class="column is-9">
         <div class="tile is-child box">
             <div class="content">
-                <p>Sprint 5 review coming soon&hellip;</p>
+                
+
+<h1 id="center-sprint-5-review-big-gameplay-update-center"><center>Sprint 5 Review - Big Gameplay Update!</center></h1>
+
+<hr />
+
+<h3 id="span-style-color-012033-center-enemy-behavior-revamp-center-span"><span style="color:#012033"> <center>Enemy Behavior Revamp</center> </span></h3>
+
+<p>In previous versions of Pathos, we pushed to give the player much more precise
+control over the behaviors of enemies. After several iterations of testing the new
+mechanics, we realized that passing control of the enemies&rsquo; actions over to the
+user interrupted the gameplay and lead to a somewhat choppy experience.</p>
+
+<p>Our solution was to remove the direct control completely. There is no longer a
+long list of well-defined actions that a player can load into a dart. A dart can
+now be filled with one specific emotion: Anger, Sadness, Fear, or Joy. Injecting
+a guard with one of these emotions forces him to behave in a chaotic, yet
+predictable way. A guard will stay in their modified behavior until the
+chemicals wear off.</p>
+
+<p><strong><span style="color:#c90000"><u>Anger:</u></span></strong></p>
+
+<p>Anger is used to <strong>kill</strong> other guards and <strong>break</strong> objects.</p>
+
+<p>When injected with rage, the guard runs to attack the nearest object. His vision
+cone narrows and gets further to represent his tunnel vision, and if the
+player or another guard happens to be in his path, he will go out of his way to
+try and attack them.</p>
+
+<p><strong><span style="color:#033f94"><u>Sadness:</u></span></strong></p>
+
+<p>Sadness is used to <strong>distract</strong> guards. It is more of a <strong>non-violent</strong> way to
+accomplish your goal.</p>
+
+<p>When injected with sadness, the guard will immediately start sobbing and his
+vision cone will shrink into himself. This will gather the attention of nearby
+guards and they will stare at him until he stops crying. This is a great way to
+control the direction of the guards&rsquo; vision cones and will help you sneak passed.</p>
+
+<p><strong><span style="color:#ffd666"><u>Fear:</u></span></strong></p>
+
+<p>Fear is primarily used to force guards to <strong>move</strong> to <strong>directed areas</strong>.</p>
+
+<p>When injected with fear, the guard will run away from anyone close to him, and
+that includes other guards. His vision cone will widen to the point where it&rsquo;s
+an area 360 degrees around him to show his heightened senses. If nobody is near
+him, he will cower in a ball. This makes it easy for the player to fear a guard,
+and then lead him to a preferred location.</p>
+
+<p><strong><span style="color:#00b30c"><u>Joy:</u></span></strong></p>
+
+<p>TBD</p>
+
+<p><strong><center><u>Summary</u></center></strong></p>
+
+<p>This new system is meant to make our gameplay feel a lot smoother. It&rsquo;s a much
+more refined, simple system that allows the player to pick up the gameplay
+immediately. Although these behaviors are fairly basic at their core, there is
+still a lot of room for creativity, chaos, and fun!</p>
+
+<hr />
+
+<h3 id="span-style-color-012033-center-updated-vision-cones-center-span"><span style="color:#012033"> <center>Updated Vision Cones</center> </span></h3>
+
+<p>The vision cone is our primary way of representing the emotions of an enemy:</p>
+
+<ul>
+<li>Pulses show their heart rate.</li>
+<li>Color change corresponding to the emotion they are in.</li>
+<li>Angle/Radius change to match with their emotion to show heightened or lowered
+senses. e.g. Anger narrows and increases the range of the vision cone to
+represent rage-induced tunnel vision.</li>
+</ul>
+
+<p>Oh, and the vision cones now project out of their head instead of their knees.</p>
+
+<hr />
+
+<h3 id="span-style-color-012033-center-art-center-span"><span style="color:#012033"> <center>Art</center> </span></h3>
+
+<p>Not all of it is in-game yet, but we have some really great art assets in the
+making! Below is the model of the guard, and what he looks like in the scene
+with some environment assets.
+<center> <img src="/img/GuardBodyInGame.png" alt="Anger" /> </center></p>
+
+<p><center> <img src="/img/EnvProgress1.png" alt="Anger" /> </center></p>
+
+<p><center> <img src="/img/EnvProgress2.png" alt="Anger" /> </center></p>
+
+<hr />
+
+<h3 id="span-style-color-012033-center-animations-center-span"><span style="color:#012033"> <center>Animations</center> </span></h3>
+
+<p>We finally started to mess around with some animations. This added a lot to
+Pathos because it&rsquo;s hard to convey emotions without the proper animations. There
+is a lot more polish that has to be done, but here are some examples of our first
+tests:</p>
+
+<p><center> <img src="/img/anger.gif" alt="Anger" /> </center></p>
+
+<p><center> <img src="/img/fear.gif" alt="Fear" /> </center></p>
+
+<p><center> <img src="/img/sadness.gif" alt="Sadness" /> </center></p>
+
+<hr />
+
+<h3 id="span-style-color-012033-center-other-random-things-center-span"><span style="color:#012033"> <center>Other Random Things</center> </span></h3>
+
+<ul>
+<li>Yup&hellip; literal camera heads! You probably saw them above but I thought I would
+point it out anyways.</li>
+<li>Backpack that displays the changing values of your resources.</li>
+<li>Crouch functionality that we may or may not use.</li>
+<li>Breakable boxes.</li>
+</ul>
+
+<hr />
+
+<h3 id="span-style-color-012033-center-conclusion-center-span"><span style="color:#012033"> <center>Conclusion</center> </span></h3>
+
+<p>Overall, our team is very happy with how this mini-pivot has turned out. We are
+super excited to start polishing out all of these new mechanics and to start
+building some creative levels with them. There is a lot more in the works for
+this next sprint, so stay tuned!</p>
+
+<div align="right">- Joey Weidman</div>
 
             </div>
         </div>
