@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Pathos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Feb 2019 01:14:34 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Feb 2019 17:27:54 -0700</lastBuildDate>
     
         <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sprint 6 Review</title>
+      <link>/2019/sprint-6-review/</link>
+      <pubDate>Mon, 18 Feb 2019 17:27:54 -0700</pubDate>
+      
+      <guid>/2019/sprint-6-review/</guid>
+      <description>Sprint 6 Review - Explosion Update! 3-Shot Explosion  Throughout our many versions of Pathos, there was one thing that everyone continued to enjoy in our game. Explosions. In the previous few builds, we didn&amp;rsquo;t have any boom-booms and it just seemed to leave a void in our hearts. Not any longer! In this sprint we added a much anticipated feature that we have had planned for a while now.</description>
+    </item>
     
     <item>
       <title>The Team</title>

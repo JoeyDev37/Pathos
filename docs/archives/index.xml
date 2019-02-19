@@ -6,9 +6,19 @@
     <description>Recent content in Archives on Pathos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 18 Feb 2019 17:27:54 -0700</lastBuildDate>
     
         <atom:link href="/archives/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019</title>
+      <link>/archives/2019/</link>
+      <pubDate>Mon, 18 Feb 2019 17:27:54 -0700</pubDate>
+      
+      <guid>/archives/2019/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

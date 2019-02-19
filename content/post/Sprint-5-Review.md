@@ -125,4 +125,4 @@ super excited to start polishing out all of these new mechanics and to start
 building some creative levels with them. There is a lot more in the works for
 this next sprint, so stay tuned!
 
-<div align="right">- Joey Weidman</div>
+<div align="right">- Joey W</div>
