@@ -38,3 +38,7 @@ author: Joey Weidman
 **Producer:**
 
 - Harrison - harrison.brandon97@gmail.com
+
+***
+
+<center> ![GroupPhoto](https://cdn.discordapp.com/attachments/487369870200143881/548397298510463006/IMG-20190221-WA0001.jpg) </center>
