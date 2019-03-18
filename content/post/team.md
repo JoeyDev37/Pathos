@@ -10,34 +10,34 @@ author: Joey Weidman
 
 **Engineers:**
 
-- Skyler Hektner - skylerhektner@gmail.com
-- Joey Weidman- joey.weidman1@gmail.com
-- Levi McDonald - mcdonaldlevi@ymail.com
-- Tim Trimble- tim.d.trimble@gmail.com
+- Skyler Hektner | skylerhektner@gmail.com | <b>[Portfolio](https://skylerhektner.com)</b>
+- Joey Weidman | joey.weidman1@gmail.com
+- Levi McDonald | mcdonaldlevi@ymail.com
+- Tim Trimble | tim.d.trimble@gmail.com | <b>[Portfolio](https://pubweb.eng.utah.edu/~timothyt/Website/)</b>
 
 ***
 
 **Artists:**
 
-- Aarim - aarimfarnsworth@gmail.com
-- Anson - ajd613@gmail.com
-- Brad - kloosbw@gmail.com
-- Brandon - cbsimms@comcast.net
-- Eric Knaus - eric.knaus@studio-awesome.net
-- Klein - kleinhammond24@gmail.com
+- Aarim | aarimfarnsworth@gmail.com
+- Anson | ajd613@gmail.com
+- Brad | kloosbw@gmail.com | <b>[Portfolio](https://bradkloos.jimdo.com/)</b>
+- Brandon | cbsimms@comcast.net
+- Eric Knaus | eric.knaus@studio-awesome.net | <b>[Portfolio](https://www.artstation.com/gyrosupernova)</b>
+- Klein | kleinhammond24@gmail.com
 
 ***
 
 **Designers:**
 
-- Alexander Medes - amedes95@gmail.com
-- Eddie - ercsnedward@gmail.com
+- Alexander Medes | amedes95@gmail.com | <b>[Portfolio](https://alexanderm.myportfolio.com/work)</b>
+- Eddie | ercsnedward@gmail.com
 
 ***
 
 **Producer:**
 
-- Harrison - harrison.brandon97@gmail.com
+- Harrison | harrison.brandon97@gmail.com
 
 ***
 
