@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Pathos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 15:07:20 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2019 21:48:41 -0600</lastBuildDate>
     
         <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sprint 8 Review</title>
+      <link>/2019/sprint-8-review/</link>
+      <pubDate>Fri, 29 Mar 2019 21:48:41 -0600</pubDate>
+      
+      <guid>/2019/sprint-8-review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sprint 7 Review</title>
